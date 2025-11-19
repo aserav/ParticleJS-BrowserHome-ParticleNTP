@@ -24,4 +24,4 @@ Right-click it → choose **“Hide footer on New Tab page”** (or similar).
 ---
 
 
-[preview] <img width="2559" height="1439" alt="Screenshot 2025-11-19 051119" src="https://github.com/user-attachments/assets/f8a3ed1e-a070-4c8e-9513-7e7247d018bf" />
+<img width="2559" height="1439" alt="Screenshot 2025-11-19 051119" src="https://github.com/user-attachments/assets/f8a3ed1e-a070-4c8e-9513-7e7247d018bf" />

@@ -1,6 +1,3 @@
-
-
-
 **ParticleJS BrowserHome (ParticleNTP)**  
 ZIP archive, CRX file, PEM key, and full source files included.
 
